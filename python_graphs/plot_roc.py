@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import sys
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 
 def load_results(fname):
     fpr_list = [0.0]  # La curva ROC parte da (0,0)
